@@ -71,7 +71,7 @@ export const Experience = () => {
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Innovacion</h2>
-          <p class="leading-relaxed">Junto al desarrollo de la tecnologia, nos desarrollamos como equipo en busqueda de la evolucion de nuestros productos.</p>
+          <p class="leading-relaxed">Junto al avance de la tecnologia, nos desarrollamos como equipo en busqueda de la evolucion de nuestros productos.</p>
         </div>
       </div>
     </div>
