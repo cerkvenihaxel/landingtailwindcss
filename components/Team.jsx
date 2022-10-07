@@ -15,8 +15,8 @@ export const Team = () => {
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover sm:mb-0 mb-2" src="https://images.unsplash.com/photo-1665114100016-5adb0d036176?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
           <div class="flex-grow sm:pl-8">
             <h2 class="title-font font-medium text-lg text-blue-400">Ing. Omar Gonzalez</h2>
-            <h3 class="text-gray-500 mb-3">Gernte General</h3>
-            <p class="mb-4">Logistica, organizacion y gerencia</p>
+            <h3 class="text-gray-500 mb-3">Gerente General</h3>
+            <p class="mb-4">Coordinacion, logistica, organizacion. Gerencia General.</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -70,7 +70,7 @@ export const Team = () => {
           <div class="flex-grow sm:pl-8">
             <h2 class="title-font font-medium text-lg text-blue-400">Natal Barrera</h2>
             <h3 class="text-gray-500 mb-3">Gerente de Proyectos</h3>
-            <p class="mb-4">Gestion, planificacion y control proyectos</p>
+            <p class="mb-4">Project Manager. Gestion de proyectos y calidad de productos.</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -97,7 +97,7 @@ export const Team = () => {
           <div class="flex-grow sm:pl-8">
             <h2 class="title-font font-medium text-lg text-blue-400">German Hoffmann</h2>
             <h3 class="text-gray-500 mb-3">Gerencia de Ventas</h3>
-            <p class="mb-4">Relaciones, ventas y diseño</p>
+            <p class="mb-4">Relaciones empresariales, ventas y servicio de atencion al cliente. Diseño UX/UI.</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
