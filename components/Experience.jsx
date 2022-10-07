@@ -17,8 +17,8 @@ export const Experience = () => {
           </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Shooting Stars</h2>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Experiencia</h2>
+          <p class="leading-relaxed">Somos un equipo solido de trabajo, y tenemos la mirada puesta en el futuro.</p>
         </div>
       </div>
     </div>
@@ -34,8 +34,8 @@ export const Experience = () => {
           </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">The Catalyzer</h2>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Desarrolladores</h2>
+          <p class="leading-relaxed">Contamos con 15 desarolladores capacitados en diferentes tecnologias</p>
         </div>
       </div>
     </div>
@@ -52,8 +52,8 @@ export const Experience = () => {
           </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">The 400 Blows</h2>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Compromiso</h2>
+          <p class="leading-relaxed">Nuestra meta es alcanzar el exito junto a cada cliente</p>
         </div>
       </div>
     </div>
@@ -70,8 +70,8 @@ export const Experience = () => {
           </svg>
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Neptune</h2>
-          <p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
+          <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Innovacion</h2>
+          <p class="leading-relaxed">Junto al desarrollo de la tecnologia, nos desarrollamos como equipo en busqueda de la evolucion de nuestros productos.</p>
         </div>
       </div>
     </div>

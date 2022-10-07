@@ -6,16 +6,16 @@ export const Team = () => {
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
       <h1 class="text-5xl font-medium mb-4 text-pink-600">Nuestro equipo.</h1>
-      <p class="lg:w-2/3 mt-12 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven&apost heard of them.</p>
+      <p class="lg:w-2/3 mt-12 mx-auto leading-relaxed text-base">Conformamos un equipo multidisciplinario con el objetivo de crear soluciones modernas que acompañen a nuestros clientes en su vida laboral</p>
     </div>
     <div class="flex flex-wrap -m-4">
       <div class="p-4 lg:w-1/2">
         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover sm:mb-0 mb-2" src="https://images.unsplash.com/photo-1665114100016-5adb0d036176?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
           <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-blue-400">Holden Caulfield</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 class="title-font font-medium text-lg text-blue-400">Ing. Omar Gonzalez</h2>
+            <h3 class="text-gray-500 mb-3">Gernte General</h3>
+            <p class="mb-4">Logistica, organizacion y gerencia</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -40,9 +40,9 @@ export const Team = () => {
         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://images.unsplash.com/photo-1665114100011-0bbb68f93319?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"/>
           <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-blue-400">Alper Kamu</h2>
-            <h3 class="text-gray-500 mb-3">Designer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 class="title-font font-medium text-lg text-blue-400">Axel Cerkvenih</h2>
+            <h3 class="text-gray-500 mb-3">Gerente de Tecnnologia</h3>
+            <p class="mb-4">Coordinacion y liderazgo de los diversos equipos de trabajo</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -67,9 +67,9 @@ export const Team = () => {
         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://images.unsplash.com/photo-1665114099997-312938cc6a84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
           <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-blue-400">Atticus Finch</h2>
-            <h3 class="text-gray-500 mb-3">UI Developer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 class="title-font font-medium text-lg text-blue-400">Natal Barrera</h2>
+            <h3 class="text-gray-500 mb-3">Gerente de Proyectos</h3>
+            <p class="mb-4">Gestion, planificacion y control proyectos</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
@@ -94,9 +94,9 @@ export const Team = () => {
         <div class="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
           <img alt="team" class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4" src="https://images.unsplash.com/photo-1665114099984-f8f56a08be2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"/>
           <div class="flex-grow sm:pl-8">
-            <h2 class="title-font font-medium text-lg text-blue-400">Henry Letham</h2>
-            <h3 class="text-gray-500 mb-3">Designer</h3>
-            <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
+            <h2 class="title-font font-medium text-lg text-blue-400">German Hoffmann</h2>
+            <h3 class="text-gray-500 mb-3">Gerencia de Ventas</h3>
+            <p class="mb-4">Relaciones, ventas y diseño</p>
             <span class="inline-flex">
               <a class="text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
