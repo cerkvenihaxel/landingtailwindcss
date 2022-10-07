@@ -2,6 +2,7 @@ import React from 'react'
 
 export const Team = () => {
   return (
+    <div id='Team'>
     <section class="text-white bg-black body-font">
   <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col text-center w-full mb-20">
@@ -120,5 +121,6 @@ export const Team = () => {
     </div>
   </div>
 </section>
+</div>
   )
 }

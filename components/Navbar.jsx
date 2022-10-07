@@ -1,12 +1,14 @@
 import React, {useState, useEffect} from 'react';
-import Link from 'next/link';
 import {AiOutlineMenu, AiOutlineClose} from 'react-icons/ai';
-
+import {Link} from 'react-scroll';
 const Navbar = () => {
 
     const [nav, setNav] = useState(false);
     const [color, setColor] = useState('transparent');
     const [textColor, setTextColor] = useState('white');
+    const [click, setClick] = useState(false);
+    const handleClick = () => setClick(!click);
+    const closeMenu = () => setClick(false);
     const handleNav= () => {
         setNav(!nav);
     }
@@ -28,18 +30,20 @@ const Navbar = () => {
   return (
     <div style={{backgroundColor: `${color}`}} className='fixed left-0 top-0 w-full z-10 ease-in duration-300'>
         <div className='max-w-{1240px} m-auto flex justify-between items-center p-4 ml-12 text-white'>
+            
+            
             <Link href='/'>
                 <h1 style={{color: `${textColor}`}} className='font-bold text-4xl'>NOGASOFT LR</h1>
             </Link>
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
                 <li className='p-4 hover:text-cyan-500'>
-                    <Link href='/'>Inicio</Link>
+                    <Link to="Hero" spy={true} smooth={true} duration={300}>Inicio</Link>
                     </li>  
                 <li className='p-4 hover:text-cyan-500'>
-                    <Link href='/'>Nosotros</Link>
+                    <Link to="Team" spy={true} smooth={true} duration={300}>Nosotros</Link>
                 </li>
                 <li className='p-4 hover:text-cyan-500'>
-                    <Link href='/'>Contacto</Link>
+                    <Link to="Contact" spy={true} smooth={true} duration={300}>Contacto</Link>
                 </li>
                 
             </ul>

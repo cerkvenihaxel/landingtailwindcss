@@ -3,7 +3,7 @@ import React from 'react'
 export const Slider = () => {
   return (
     <section class="text-gray-700 body-font bg-black">
-    <div class="container px-5 py-24 mx-auto">
+    <div class="container px-5 mx-auto">
       <div class="flex flex-wrap w-full mb-20">
         <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
           <h1 class="sm:text-5xl text-5xl font-medium title-font mb-2 text-white">Nuestros servicios.</h1>
