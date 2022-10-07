@@ -15,36 +15,36 @@ export const Slider = () => {
         <div class="xl:w-1/4 md:w-1/2 p-4">
           <div class="bg-gray-200 bg-opacity-10 p-6 rounded-lg  hover:bg-blue-500 hover:bg-opacity-30 hover:text-white ease-in duration-200">
             <img class="h-40 rounded w-full object-cover object-center mb-6 hover:scale-110 ease-in duration-500" src="https://images.unsplash.com/photo-1664575602276-acd073f104c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="content"/>
-            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">.01</h3>
+            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">S-GINE</h3>
             <h2 class="text-lg text-white font-medium title-font mb-4">Software de control y gestion</h2>
-            <p class="text-gray-300 leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            <p class="text-gray-300 leading-relaxed text-base">Desarrollo de sistemas integrales para empresas</p>
           </div>
         </div>
 
         <div class="xl:w-1/4 md:w-1/2 p-4">
           <div class="bg-gray-200 bg-opacity-10 p-6 rounded-lg  hover:bg-blue-500 hover:bg-opacity-30 hover:text-white ease-in duration-200">
             <img class="h-40 rounded w-full object-cover object-center mb-6 hover:scale-110 ease-in duration-500" src="https://images.unsplash.com/photo-1544725121-be3bf52e2dc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80" alt="content"/>
-            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">.02</h3>
+            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">DevOps</h3>
             <h2 class="text-lg text-white font-medium title-font mb-4">Desarrollo web y movil</h2>
-            <p class="text-gray-300 leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            <p class="text-gray-300 leading-relaxed text-base">Diseños a medida de paginas web y aplicaciones Android & iOS</p>
           </div>
         </div>
 
         <div class="xl:w-1/4 md:w-1/2 p-4">
           <div class="bg-gray-200 bg-opacity-10 p-6 rounded-lg  hover:bg-blue-500 hover:bg-opacity-30 hover:text-white ease-in duration-200">
             <img class="h-40 rounded w-full object-cover object-center mb-6 hover:scale-110 ease-in duration-500" src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="content"/>
-            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">.03</h3>
+            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">Ventas</h3>
             <h2 class="text-lg text-white font-medium title-font mb-4">E-commerce</h2>
-            <p class="text-gray-300 leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            <p class="text-gray-300 leading-relaxed text-base">Desarrollo de plataformas de comercio y catalogos online para tus productos</p>
           </div>
         </div>
 
         <div class="xl:w-1/4 md:w-1/2 p-4">
           <div class="bg-gray-200 bg-opacity-10 p-6 rounded-lg  hover:bg-blue-500 hover:bg-opacity-30 hover:text-white ease-in duration-200">
             <img class="h-40 rounded w-full object-cover object-center mb-6 hover:scale-110 ease-in duration-500" src="https://images.unsplash.com/photo-1611926653458-09294b3142bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="content"/>
-            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">.04</h3>
-            <h2 class="text-lg text-white font-medium title-font mb-4">Digital Marketing</h2>
-            <p class="text-gray-300 leading-relaxed text-base">Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">Analisis</h3>
+            <h2 class="text-lg text-white font-medium title-font mb-4">Consultorias</h2>
+            <p class="text-gray-300 leading-relaxed text-base">Auditoria y consultorias de arquitectura, tecnologias y experiencia de usuario</p>
           </div>
         </div>
        
