@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Slider = () => {
   return (
-    <section class="text-gray-700 body-font pb-12 bg-black">
+    <section class="text-gray-700 -my-1 body-font pb-12 bg-black">
     <div class="container px-5 mx-auto">
       <div class="flex flex-wrap w-full mb-20">
         <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
