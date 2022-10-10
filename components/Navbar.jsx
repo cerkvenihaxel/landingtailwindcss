@@ -20,7 +20,7 @@ const Navbar = () => {
                 setTextColor('#000000');
             } else {
                 setColor('transparent');
-                setTextColor('white');
+                setTextColor('black');
             }  
         }
         window.addEventListener('scroll', changeBackground);
