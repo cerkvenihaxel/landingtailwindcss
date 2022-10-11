@@ -33,7 +33,7 @@ const Navbar = () => {
             
             
             <Link href='/'>
-                <h1 style={{color: `${textColor}`}} className='font-bold text-4xl'>NOGASOFT LR</h1>
+                <h1 style={{color: `${textColor}`}} className='font-bold text-4xl'>NOGASoft</h1>
             </Link>
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
                 <li className='p-4 hover:text-blue-500'>
@@ -55,15 +55,15 @@ const Navbar = () => {
             {/* Mobile Menu */}
             <div className={nav ? 'sm:hidden absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300' : 'sm:hidden absolute top-0 left-[-100%] right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300'}>
               
-                <ul>
+                <ul className='text-white'>
                     <li className='p-4 text-4xl hover:text-blue-500'>
-                        <Link href='/'>Inicio</Link>
+                    <Link to="Hero" spy={true} smooth={true} duration={300}>Inicio</Link>
                     </li>
                     <li className='p-4 text-4xl hover:text-blue-500'>
-                        <Link href='/'>Nosotros</Link>
+                    <Link to="Team" spy={true} smooth={true} duration={300}>Nosotros</Link>
                     </li>
                     <li className='p-4 text-4xl hover:text-blue-500'>
-                        <Link href='/'>Contacto</Link>
+                    <Link to="Contact" spy={true} smooth={true} duration={300}>Contacto</Link>
                     </li>
                 </ul>
                 </div>
