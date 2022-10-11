@@ -7,7 +7,7 @@ export const Hero2 = () => {
     <Navbar />
 
   <main>
-    <div>
+    <div id="Hero">
       <div class="relative pt-24">
         <div class="absolute inset-x-0 bottom-0 h-1/2 bg-white"></div>
         <div class="mx-auto max-w-7xl sm:px-6 lg:px-8">

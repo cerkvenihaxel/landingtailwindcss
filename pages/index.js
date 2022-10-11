@@ -14,8 +14,9 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>NOGASoft LR</title>
-        <meta name="description" content="NOGASoft LR" />
+        <title>NOGASoft</title>
+        <meta name="description" content="NOGASoft" />
+        <link rel="icon" href="/logocolor.png" />
       </Head>
       <Hero2 />
       <Services2 />

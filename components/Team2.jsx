@@ -14,10 +14,10 @@
 */
 const people = [
     {
-      name: 'Leslie Alexander',
+      name: 'Ing. Omar Gonzalez',
       role: 'Co-Founder / CEO',
       imageUrl:
-        'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80',
+        'https://images.unsplash.com/photo-1665455626545-7179ff60cf63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
       bio: 'Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.',
       twitterUrl: '#',
       linkedinUrl: '#',
@@ -25,6 +25,26 @@ const people = [
 
     {
         name: 'Axel Cerkvenih',
+        role: 'Co-Founder / CEO',
+        imageUrl:
+        'https://images.unsplash.com/photo-1665455844223-8bad8598f602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+        bio: 'Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.',
+        twitterUrl: '#',
+        linkedinUrl: '#',
+      },
+
+      {
+        name: 'German Hoffmann',
+        role: 'Co-Founder / CEO',
+        imageUrl:
+        'https://images.unsplash.com/photo-1665455844231-5ccf2f1a758a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+        bio: 'Ultricies massa malesuada viverra cras lobortis. Tempor orci hac ligula dapibus mauris sit ut eu. Eget turpis urna maecenas cras. Nisl dictum.',
+        twitterUrl: '#',
+        linkedinUrl: '#',
+      },
+
+      {
+        name: 'Natal Barrera',
         role: 'Co-Founder / CEO',
         imageUrl:
         'https://images.unsplash.com/photo-1665114099997-312938cc6a84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
@@ -37,7 +57,7 @@ const people = [
   
   export default function Example() {
     return (
-      <div className="bg-white">
+      <div className="bg-white" id="Team">
         <div className="mx-auto max-w-7xl py-12 px-4 sm:px-6 lg:px-8 lg:py-24">
           <div className="space-y-12 lg:grid lg:grid-cols-3 lg:gap-8 lg:space-y-0">
             <div className="space-y-5 sm:space-y-4">

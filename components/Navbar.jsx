@@ -4,8 +4,8 @@ import {Link} from 'react-scroll';
 const Navbar = () => {
 
     const [nav, setNav] = useState(false);
-    const [color, setColor] = useState('transparent');
-    const [textColor, setTextColor] = useState('white');
+    const [color, setColor] = useState('white');
+    const [textColor, setTextColor] = useState('black');
     const [click, setClick] = useState(false);
     const handleClick = () => setClick(!click);
     const closeMenu = () => setClick(false);
@@ -29,20 +29,20 @@ const Navbar = () => {
 
   return (
     <div style={{backgroundColor: `${color}`}} className='fixed left-0 top-0 w-full z-10 ease-in duration-300'>
-        <div className='max-w-{1240px} m-auto flex justify-between items-center p-4 ml-12 text-white'>
+        <div className='max-w-{1240px} m-auto flex justify-between items-center p-4 ml-12 text-black'>
             
             
             <Link href='/'>
                 <h1 style={{color: `${textColor}`}} className='font-bold text-4xl'>NOGASOFT LR</h1>
             </Link>
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
-                <li className='p-4 hover:text-cyan-500'>
+                <li className='p-4 hover:text-blue-500'>
                     <Link to="Hero" spy={true} smooth={true} duration={300}>Inicio</Link>
                     </li>  
-                <li className='p-4 hover:text-cyan-500'>
+                <li className='p-4 hover:text-blue-500'>
                     <Link to="Team" spy={true} smooth={true} duration={300}>Nosotros</Link>
                 </li>
-                <li className='p-4 hover:text-cyan-500'>
+                <li className='p-4 hover:text-blue-500'>
                     <Link to="Contact" spy={true} smooth={true} duration={300}>Contacto</Link>
                 </li>
                 
@@ -56,13 +56,13 @@ const Navbar = () => {
             <div className={nav ? 'sm:hidden absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300' : 'sm:hidden absolute top-0 left-[-100%] right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300'}>
               
                 <ul>
-                    <li className='p-4 text-4xl hover:text-cyan-500'>
+                    <li className='p-4 text-4xl hover:text-blue-500'>
                         <Link href='/'>Inicio</Link>
                     </li>
-                    <li className='p-4 text-4xl hover:text-cyan-500'>
+                    <li className='p-4 text-4xl hover:text-blue-500'>
                         <Link href='/'>Nosotros</Link>
                     </li>
-                    <li className='p-4 text-4xl hover:text-cyan-500'>
+                    <li className='p-4 text-4xl hover:text-blue-500'>
                         <Link href='/'>Contacto</Link>
                     </li>
                 </ul>
