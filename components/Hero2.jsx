@@ -37,7 +37,7 @@ export const Hero2 = () => {
           <p class="text-center text-base font-semibold text-gray-500">Confian en nosotros las siguientes empresas:</p>
           <div class="mt-6 grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
             <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-              <img class="h-12" src="https://aposlr.gob.ar/wp-content/uploads/2022/04/Logo_vertical.jpg" alt="Tuple"/>
+              <img class="h-12" src="logo-mcmovil.jpg" alt="Tuple"/>
             </div>
             <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
               <img class="h-12" src="https://i.imgur.com/evTSOC9.png" alt="Mirage"/>
