@@ -18,7 +18,7 @@ const people = [
       role: 'Co-Founder / Gerencia General.',
       imageUrl:
         'https://images.unsplash.com/photo-1665455626545-7179ff60cf63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-      bio: 'Coordinacion, logistica y organizacion.',
+      bio: 'Coordinación, logística y organización.',
       twitterUrl: '#',
       linkedinUrl: '#',
     },
@@ -28,7 +28,7 @@ const people = [
         role: 'Co-Founder / Gerente de tecnologias y desarrollo',
         imageUrl:
         'https://images.unsplash.com/photo-1665455844223-8bad8598f602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        bio: 'Coordinacion y liderazgo de los equipos de trabajo',
+        bio: 'Coordinación y liderazgo de los equipos de trabajo',
         twitterUrl: '#',
         linkedinUrl: '#',
       },
@@ -38,7 +38,7 @@ const people = [
         role: 'Co-Founder / Gerente de Ventas',
         imageUrl:
         'https://images.unsplash.com/photo-1665455844231-5ccf2f1a758a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        bio: 'Relaciones empresariales, ventas y servicio de atencion al cliente. Diseño UX/UI.',
+        bio: 'Relaciones empresariales, ventas y servicio de atención al cliente. Diseño UX/UI.',
         twitterUrl: '#',
         linkedinUrl: '#',
       },
@@ -48,7 +48,7 @@ const people = [
         role: 'Co-Founder / Gerente de Proyectos',
         imageUrl:
         'https://images.unsplash.com/photo-1665114099997-312938cc6a84?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
-        bio: 'Project Manager. Gestion de proyectos y calidad de productos.',
+        bio: 'Project Manager. Gestión de proyectos y calidad de productos.',
         twitterUrl: '#',
         linkedinUrl: '#',
       },

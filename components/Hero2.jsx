@@ -24,7 +24,7 @@ export const Hero2 = () => {
               <p class="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">Una empresa que reúne a las personas capacitadas junto a las necesidades más complejas</p>
               <div class="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 <div class="space-y-4 sm:mx-auto sm:inline-grid sm:grid-cols-1 sm:gap-5 sm:space-y-0">
-                  <a href="#" class="flex items-center justify-center rounded-md border border-transparent bg-blue-500 bg-opacity-60 px-4 py-3 text-base font-medium text-white shadow-sm hover:bg-opacity-70 sm:px-8">Mas informacion</a>
+                  <a href="#" class="flex items-center justify-center rounded-md border border-transparent bg-blue-500 bg-opacity-60 px-4 py-3 text-base font-medium text-white shadow-sm hover:bg-opacity-70 sm:px-8">Más información</a>
                 </div>
               </div>
             </div>
