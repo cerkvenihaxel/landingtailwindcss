@@ -75,7 +75,7 @@ const navigation = [
             ))}
           </div>
           <div className="mt-8 md:order-1 md:mt-0">
-            <p className="text-center text-base text-gray-400">&copy; 2020 Your Company, Inc. All rights reserved.</p>
+            <p className="text-center text-base text-gray-400">&copy; 2022 NOGAsoft, Inc. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>
