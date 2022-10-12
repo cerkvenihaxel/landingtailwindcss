@@ -18,7 +18,7 @@ export const Experience = () => {
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Experiencia</h2>
-          <p class="leading-relaxed">Somos un equipo solido de trabajo, y tenemos la mirada puesta en el futuro.</p>
+          <p class="leading-relaxed">Somos un equipo solido de trabajo y tenemos la mirada puesta en el futuro.</p>
         </div>
       </div>
     </div>
@@ -35,7 +35,7 @@ export const Experience = () => {
         </div>
         <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
           <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Desarrolladores</h2>
-          <p class="leading-relaxed">Contamos con 15 desarolladores capacitados en diferentes tecnologias</p>
+          <p class="leading-relaxed">Contamos con 15 desarolladores capacitados en diversas tecnologias</p>
         </div>
       </div>
     </div>
