@@ -63,7 +63,7 @@ const people = [
             <div className="space-y-5 sm:space-y-4">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">Nuestro Equipo</h2>
               <p className="text-xl text-gray-500">
-              Conformamos un equipo multidisciplinario con el objetivo de crear soluciones modernas que acompañen a nuestros clientes en su vida laboral
+              Conformamos un equipo multidisciplinario con el objetivo de crear soluciones modernas que acompañen a nuestros clientes en su vida laboral.
               </p>
             </div>
             <div className="lg:col-span-2">

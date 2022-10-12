@@ -16,7 +16,7 @@ export const Slider = () => {
           <div class="bg-gray-200 bg-opacity-10 p-6 rounded-lg  hover:bg-blue-500 hover:bg-opacity-30 hover:text-white ease-in duration-200">
             <img class="h-40 rounded w-full object-cover object-center mb-6 hover:scale-105 ease-in duration-500" src="https://images.unsplash.com/photo-1664575602276-acd073f104c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="content"/>
             <h3 class="tracking-widest text-blue-500 text-xs font-medium title-font">S-GINE</h3>
-            <h2 class="text-lg text-white font-medium title-font mb-4">Software de control y gestion</h2>
+            <h2 class="text-lg text-white font-medium title-font mb-4">Software de control y gestión</h2>
             <p class="text-gray-300 leading-relaxed text-base">Desarrollo de sistemas integrales para empresas y negocios</p>
           </div>
         </div>

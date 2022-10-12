@@ -5,7 +5,7 @@ export const Services2 = () => {
     <div class="relative bg-white py-16 sm:py-24 lg:py-32">
   <div class="mx-auto max-w-md px-4 text-center sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
     <h2 class="text-lg font-semibold text-blue-400">Servicios Integrales</h2>
-    <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Todo lo que se necesita para estar en la vanguardia tecnologica</p>
+    <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Todo lo que se necesita para estar en la vanguardia tecnoógica</p>
     <p class="mx-auto mt-5 max-w-prose text-xl text-gray-500">Logramos un crecimiento sostenido que nos permite profundizar nuestras capacidades en nuevas tecnologías, crecer en equipo y sostener la calidad  como bandera</p>
     <div class="mt-12">
       <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
@@ -19,7 +19,7 @@ export const Services2 = () => {
                   </svg>
                 </span>
               </div>
-              <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">Aplicaciones moviles</h3>
+              <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">Aplicaciones móviles</h3>
               <p class="mt-5 text-base text-gray-500">Desarrollos creados a medida según necesidades específicas, aptas para Android & iOS</p>
             </div>
           </div>
@@ -36,7 +36,7 @@ export const Services2 = () => {
                 </span>
               </div>
               <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">SSL Certificates</h3>
-              <p class="mt-5 text-base text-gray-500">Certificacion de conexiónes cifradas que protegen las comunicaciones mutuas mientras se navega.</p>
+              <p class="mt-5 text-base text-gray-500">Certificación de conexiones cifradas que protegen las comunicaciones mutuas mientras se navega.</p>
             </div>
           </div>
         </div>
@@ -67,7 +67,7 @@ export const Services2 = () => {
                   </svg>
                 </span>
               </div>
-              <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">Consultoria IT</h3>
+              <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">Consultoría IT</h3>
               <p class="mt-5 text-base text-gray-500">La consultoría de tecnología de la información en esta área es una herramienta fundamental para la mejora y desarrollo de una empresa</p>
             </div>
           </div>
@@ -100,7 +100,7 @@ export const Services2 = () => {
                 </span>
               </div>
               <h3 class="mt-8 text-lg font-medium tracking-tight text-gray-900">Cloud Services</h3>
-              <p class="mt-5 text-base text-gray-500">Servidores, almacenamiento, procesos, backups y administrcacion en la nube </p>
+              <p class="mt-5 text-base text-gray-500">Servidores, almacenamiento, procesos, backups y administración en la nube </p>
             </div>
           </div>
         </div>

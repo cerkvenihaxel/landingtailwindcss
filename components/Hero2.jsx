@@ -21,7 +21,7 @@ export const Hero2 = () => {
                 <span class="block text-white">Te acompañamos en tu </span>
                 <span class="block text-blue-400">crecimiento digital</span>
               </h1>
-              <p class="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">Una empresa que reune a las personas capacitadas junto a las necesidades mas complejas</p>
+              <p class="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">Una empresa que reune a las personas capacitadas junto a las necesidades más complejas</p>
               <div class="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 <div class="space-y-4 sm:mx-auto sm:inline-grid sm:grid-cols-1 sm:gap-5 sm:space-y-0">
                   <a href="#" class="flex items-center justify-center rounded-md border border-transparent bg-blue-500 bg-opacity-60 px-4 py-3 text-base font-medium text-white shadow-sm hover:bg-opacity-70 sm:px-8">Mas informacion</a>
@@ -34,7 +34,7 @@ export const Hero2 = () => {
 
       <div class="bg-white">
         <div class="mx-auto max-w-7xl py-16 px-4 sm:px-6 lg:px-8">
-          <p class="text-center text-base font-semibold text-gray-500">Confian en nosotros:</p>
+          <p class="text-center text-base font-semibold text-gray-500">Confían en nosotros:</p>
           <div class="mt-6 grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
             <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
               <img class="h-12" src="logo-mcmovil.jpg" alt="Tuple"/>
