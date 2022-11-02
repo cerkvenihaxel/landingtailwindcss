@@ -45,12 +45,8 @@ export const Hero2 = () => {
             <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
               <img class="h-12" src="https://transportechilecito.com.ar/wp-content/uploads/2020/03/cropped-logo2.png" alt="StaticKit"/>
             </div>
-            <div class="col-span-1 flex justify-center md:col-span-2 md:col-start-2 lg:col-span-1">
-              <img class="h-12" src="https://scontent.firj1-1.fna.fbcdn.net/v/t39.30808-6/221326363_126504446323568_5069093750982673412_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ybh6nBjPLZkAX-UiG4v&_nc_ht=scontent.firj1-1.fna&oh=00_AT_AGzlFp57Hf8wsDwQjQ619QxhparpJxQhGSZADsVssEg&oe=634965FF" alt="Transistor"/>
-            </div>
-            <div class="col-span-2 flex justify-center md:col-span-2 md:col-start-4 lg:col-span-1">
-              <img class="h-12" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Logo_de_Claro.svg" alt="Workcation"/>
-            </div>
+
+            
           </div>
         </div>
       </div>
